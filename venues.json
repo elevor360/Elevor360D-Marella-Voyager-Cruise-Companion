@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Main dining restaurant",
+    "category": "Dining",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Check the daily programme for dining times and arrangements."
+  },
+  {
+    "name": "Casual dining",
+    "category": "Dining",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Record opening hours and preferred options."
+  },
+  {
+    "name": "Speciality dining",
+    "category": "Dining",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Confirm current venues, reservations and any charges."
+  },
+  {
+    "name": "Observation lounge",
+    "category": "Bars",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Record your favourite lounge and opening times."
+  },
+  {
+    "name": "Cocktail bar",
+    "category": "Bars",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Check onboard for the current venue name and drinks menu."
+  },
+  {
+    "name": "Coffee lounge",
+    "category": "Bars",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Check onboard for coffee and refreshments."
+  },
+  {
+    "name": "Theatre and shows",
+    "category": "Entertainment",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Check the daily programme for performances."
+  },
+  {
+    "name": "Live music",
+    "category": "Entertainment",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Check venues and performance times onboard."
+  },
+  {
+    "name": "Activities and talks",
+    "category": "Entertainment",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Keep notes on events you wish to attend."
+  },
+  {
+    "name": "Reception and guest services",
+    "category": "Facilities",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Ask onboard for assistance and ship information."
+  },
+  {
+    "name": "Swimming pool",
+    "category": "Facilities",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Confirm facilities and opening times onboard."
+  },
+  {
+    "name": "Spa and fitness",
+    "category": "Facilities",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Confirm services, booking and any charges."
+  },
+  {
+    "name": "Lifts and accessible routes",
+    "category": "Facilities",
+    "deck": "Confirm using the official Marella Discovery 2 deck plan",
+    "description": "Use the official deck plan for routes and accessibility."
+  }
+]
