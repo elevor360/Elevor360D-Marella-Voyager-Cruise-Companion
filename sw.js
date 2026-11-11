@@ -1,7 +1,7 @@
 'use strict';
-const CACHE_NAME = 'elevor360d-marella-discovery-2-static-v1';
-const PREFIX = 'elevor360d-marella-discovery-2-static-';
-const OFFLINE_FILES = ['./','./index.html','./style.css?v=md2v1','./app.js?v=md2v1','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=md2v1','./advert-settings.json','./share-qr.png','./advertising.js?v=md2v1','./ad-config.json','./advertising/adverts.json','./advertising/images/elevor360d-promo.jpg'];
+const CACHE_NAME = 'elevor360d-marella-voyager-static-v1';
+const PREFIX = 'elevor360d-marella-voyager-static-';
+const OFFLINE_FILES = ['./','./index.html','./style.css?v=mvv1','./app.js?v=mvv1','./manifest.webmanifest','./icon.svg','./venues.json','./information.json?v=mvv1','./advert-settings.json','./share-qr.png','./advertising.js?v=mvv1','./ad-config.json','./advertising/adverts.json','./advertising/images/elevor360d-promo.jpg'];
 self.addEventListener('install',event => event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(OFFLINE_FILES)).then(() => self.skipWaiting())));
 self.addEventListener('activate',event => event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key.startsWith(PREFIX) && key !== CACHE_NAME).map(key => caches.delete(key)))).then(() => self.clients.claim())));
 self.addEventListener('fetch',event => {

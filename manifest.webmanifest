@@ -1,6 +1,6 @@
 {
-  "name": "Elevor360D Marella Discovery 2 Cruise Companion",
-  "short_name": "Marella Discovery 2 Guide",
+  "name": "Elevor360D Marella Voyager Cruise Companion",
+  "short_name": "Marella Voyager Guide",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
